@@ -1,0 +1,10 @@
+/* https://github.com/twbs/icons/issues/1056 */
+.icon-rotate {
+    filter: progid: DXImageTransform.Microsoft.BasicImage(rotation=1);
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+    display: inline-block;
+}
